@@ -4,7 +4,7 @@
 
 $botToken = '6542527750:AAF80sFqoIiDg36R8CYghgU5vrG5PaeWHIE';
 $botusername = 'DontUnsubRobot';
-$webhookUrl = 'https://api.telegram.org/bot6542527750:AAF80sFqoIiDg36R8CYghgU5vrG5PaeWHIE/setWebhook?url=https://teleguard.vercel.app/guard.php';
+$webhookUrl = 'https://api.telegram.org/bot6542527750:AAF80sFqoIiDg36R8CYghgU5vrG5PaeWHIE/setWebhook?url=https://teleguard.vercel.app';
 
 //no need to edit bellow
 
